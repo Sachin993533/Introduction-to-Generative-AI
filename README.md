@@ -1,2 +1,12 @@
-# Introduction-to-Generative-AI
-Successfully completed the *Introduction to Generative AI* course by *Google Cloud* on *Coursera** Gained a strong foundation in generative AI concepts, including how generative AI differs from traditional machine learning, its applications, foundation models, and Google Cloud's AI ecosystem for building intelligent, real-world solutions.
+## 🎓 Introduction to Generative AI – Coursera
+
+Successfully completed the *Introduction to Generative AI* course, authorized by *Google Cloud* on *Coursera*.
+
+### Key Learnings
+
+* ✅ Fundamentals of Generative AI
+* ✅ How Generative AI works
+* ✅ Different AI model types
+* ✅ Real-world AI applications
+
+This course strengthened my understanding of AI concepts and inspired me to continue exploring Artificial Intelligence and Machine Learning.
